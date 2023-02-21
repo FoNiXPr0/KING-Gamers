@@ -14,8 +14,6 @@ new g_lastmode;
 new g_round_assvssnip;
 new Name[33];
 new bool:gBotsRegistered;
-native get_level(id);
-native get_user_at4(id);
 
 public plugin_init()
 {
