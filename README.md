@@ -8,3 +8,5 @@
 *  2 - Added Toplevel Player.
 *  3 - Added Fastbhop ( press -E- )
 *  4 - Added make furien - antifurien by [D4RQS1D3R](https://github.com/D4RQS1D3R)
+*  5 - Glow CT (Admin only) free to edit as you like
+*  6 - Countdown Hud ( No resources available )
